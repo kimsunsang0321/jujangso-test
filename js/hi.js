@@ -1,4 +1,3 @@
-
 for (i = 1; i < 4; i++) {
-  console.log(hi)
+    console.log("룰루랄라릴리 ㄴ이러미러미ㅑㄴㄹ믿강ㄴ아우루룰아")
 }
